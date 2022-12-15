@@ -1,5 +1,5 @@
 {
-  "products": [
+  "todos": [
     {
       "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/e729780862de4db4a6f05afb72054305/baidyanath-kamini-vidrawan-ras-keshar-yukta-tablet.jpg",
       "name": "Baidyanath Kamini Vidrawan Ras Keshar Yukta Tablet",
@@ -8,7 +8,8 @@
       "maxrating": "222 ratings",
       "price": "₹1837",
       "discount": "29% off",
-      "realprice": 1307
+      "realprice": 1307,
+      "id": "1"
     },
     {
       "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/b386775bd1d645d1933149b7d461e811/baidyanath-vansaar-karela-jamun-juice.jpg",
@@ -31,7 +32,6 @@
       "discount": "20% off",
       "realprice": 171
     },
-
     {
       "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/wxcyaombrajpkyvcvnrm/baidyanath-kesari-kalp-royal-chyawanprash-promotes-vitality-strength-stamina.jpg",
       "name": "Baidyanath Kesari Kalp Royal Chyawanprash Promotes Vitality, Strength & Stamina",
@@ -376,7 +376,6 @@
       "discount": "29% off",
       "realprice": 1307
     },
-
     {
       "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/pbpk2lkpnukeivekrhht/baidyanath-vita-ex-gold-plus-capsule.jpg",
       "name": "Baidyanath Vita-Ex Gold Plus Capsule",
@@ -472,7 +471,6 @@
       "style__mrp-tag___2c4qA 43": "MRP",
       "price": "₹117",
       "discount": "23% off",
-
       "realprice": 90
     },
     {
@@ -483,7 +481,6 @@
       "discount": "20% off",
       "realprice": 68
     },
-
     {
       "images": "https://onemg.gumlet.io/images/w_150,f_auto,c_fit,h_150,q_auto/psnnwxn1nbbtp5so9hr2/baidyanath-vansaar-haldi-tablet.jpg",
       "rating": 4.6,
@@ -934,7 +931,6 @@
       "style__mrp-tag___2c4qA 41": "MRP",
       "price": "₹124",
       "discount": "23% off",
-
       "realprice": 95
     },
     {
@@ -952,7 +948,6 @@
       "style__mrp-tag___2c4qA 43": "MRP",
       "price": "₹91",
       "discount": "23% off",
-
       "realprice": 70
     },
     {
@@ -974,10 +969,8 @@
       "style__mrp-tag___2c4qA 45": "MRP",
       "price": "₹131",
       "discount": "23% off",
-
       "realprice": 101
     },
-
     {
       "images": "https://onemg.gumlet.io/images/q_auto,f_auto,h_150,w_150,c_fit/b14ce3148ce242e9b5ab0e3b1652a673/baidyanath-jhansi-mahayograj-guggulu-tablet.jpg",
       "name": "Baidyanath Chyawanprash Special Immunity Booster for OmniProtection",
@@ -993,10 +986,8 @@
       "style__mrp-tag___2c4qA 47": "MRP",
       "price": "₹280",
       "discount": "29% off",
-
       "realprice": 199
     },
-
     {
       "images": "https://onemg.gumlet.io/images/h_150,f_auto,c_fit,w_150,q_auto/cropped/fgrpga3xfugd5rjylsrd/himalaya-strawberry-shine-lip-care.png",
       "name": "Baidyanath Pathrina Tablet",
@@ -1006,7 +997,6 @@
       "realprice": 117,
       "style__adBadge-text___2He6o 9": ""
     },
-
     {
       "images": "https://onemg.gumlet.io/images/f_auto,c_fit,q_auto,w_150,h_150/yw9z3akwyawktspajv0y/himalaya-shishu-anand-baby-wipes-72-each.jpg",
       "name": "",
@@ -1014,10 +1004,8 @@
       "style__mrp-tag___2c4qA 49": "",
       "price": "",
       "discount": "",
-
       "realprice": ""
     },
-
     {
       "images": "https://onemg.gumlet.io/images/f_auto,c_fit,q_auto,w_150,h_150/yw9z3akwyawktspajv0y/himalaya-shishu-anand-baby-wipes-72-each.jpg",
       "name": "",
@@ -1067,7 +1055,6 @@
       "rating": 4.5,
       "maxrating": "53 ratings"
     },
-
     {
       "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/b1fakgvympdgrfkaizde/baidyanath-arjunchall-churna.jpg",
       "rating": 4.6,
@@ -1076,7 +1063,6 @@
     {
       "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/a38ojajhvnscz0wrvva1/baidyanath-kumariasava-liquid.jpg",
       "rating": 3.9,
-
       "maxrating": "95 ratings"
     },
     {
@@ -1110,7 +1096,6 @@
       "discount": "19% off",
       "realprice": 65
     },
-
     {
       "images": "https://onemg.gumlet.io/images/q_auto,w_150,c_fit,h_150,f_auto/cropped/brwuhak31lk91hbpjbmb/himalaya-rich-cocoa-butter-lip-care.jpg",
       "name": "Baidyanath Kumariasava Liquid",
@@ -1121,7 +1106,6 @@
       "discount": "22% off",
       "realprice": 126
     },
-
     {
       "images": "https://onemg.gumlet.io/images/q_auto,w_150,c_fit,h_150,f_auto/28129fc1ade64bac97389722ccb8a591/himalaya-wellness-pure-herbs-karela-metabolic-wellness-tablet.jpg",
       "name": "Baidyanath Makardhwaj Gutika (with Gold)",
@@ -1171,7 +1155,6 @@
       "": "MRP",
       "price": "₹307",
       "discount": "8% off",
-
       "realprice": 282
     },
     {
@@ -1460,58 +1443,61 @@
       "realprice": 1022
     },
     {
-      "top-deals": [
-        {
-          "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/cropped/vouh7lqkf0pddeh0zo3w/dabur-nature-care-isabgol-double-action-powder.png",
-          "style__name___3YOZc": "Dabur Nature Care Isabgol (Double Action) Powder",
-          "style__pack-size___3nfIS": "bottle of 100 gm Powder",
-          "CardRatingDetail__weight-700___27w9q": 4.3,
-          "CardRatingDetail__ratings-header___2yyQW": "379 ratings",
-          "style__strike-price___3Ag3J": "₹155",
-          "style__discount-percent___1CBqr": "11% off",
-          "style__price___196ew": "₹138"
-        },
-        {
-          "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/cropped/t4zoelee6pzhioyduntt/softovac-sf-bowel-regulator-for-effective-relief-from-constipation.png",
-          "style__name___3YOZc": "Softovac-SF Bowel Regulator for Effective Relief from Constipation",
-          "style__pack-size___3nfIS": "jar of 100 gm Powder",
-          "CardRatingDetail__weight-700___27w9q": 4.5,
-          "CardRatingDetail__ratings-header___2yyQW": "868 ratings",
-          "style__strike-price___3Ag3J": "₹205",
-          "style__discount-percent___1CBqr": "7% off",
-          "style__price___196ew": "₹189"
-        },
-        {
-          "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/duorsdo3qv5hifquktuw/baidyanath-nagpur-abhayarishta.jpg",
-          "style__name___3YOZc": "Baidyanath (Nagpur) Abhayarishta",
-          "style__pack-size___3nfIS": "bottle of 450 ml Liquid",
-          "CardRatingDetail__weight-700___27w9q": 4.4,
-          "CardRatingDetail__ratings-header___2yyQW": "65 ratings",
-          "style__strike-price___3Ag3J": "₹185",
-          "style__discount-percent___1CBqr": "20% off",
-          "style__price___196ew": "₹148"
-        },
-        {
-          "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/e1quecehqfwixqbgoffq/organic-india-turmeric-formula-veg-capsule.jpg",
-
-          "style__pack-size___3nfIS": "bottle of 60 vegicaps",
-          "CardRatingDetail__weight-700___27w9q": 4.5,
-          "CardRatingDetail__ratings-header___2yyQW": "279 ratings",
-          "style__strike-price___3Ag3J": "₹295",
-          "style__discount-percent___1CBqr": "4% off",
-          "style__price___196ew": "₹282"
-        },
-        {
-          "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/gej7hqda83rlpxvwoduo/baidyanath-shilajeet-tablet-for-vitality-stamina-tablet.jpg",
-          "style__name___3YOZc": "Baidyanath Shilajeet Tablet for Vitality & Stamina Tablet",
-          "style__pack-size___3nfIS": "bottle of 50 tablets",
-          "CardRatingDetail__weight-700___27w9q": 4,
-          "CardRatingDetail__ratings-header___2yyQW": "205 ratings",
-          "style__strike-price___3Ag3J": "₹265",
-          "style__discount-percent___1CBqr": "20% off",
-          "style__price___196ew": "₹212"
-        }
-      ]
+      "images": "http://ljfij.jpg",
+      "name": "patanjali",
+      "description": "health",
+      "id": "to1e5ur"
+    }
+  ],
+  "top-deals":[
+    {
+      "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/cropped/vouh7lqkf0pddeh0zo3w/dabur-nature-care-isabgol-double-action-powder.png",
+      "style__name___3YOZc": "Dabur Nature Care Isabgol (Double Action) Powder",
+      "style__pack-size___3nfIS": "bottle of 100 gm Powder",
+      "CardRatingDetail__weight-700___27w9q": 4.3,
+      "CardRatingDetail__ratings-header___2yyQW": "379 ratings",
+      "style__strike-price___3Ag3J": "₹155",
+      "style__discount-percent___1CBqr": "11% off",
+      "style__price___196ew": "₹138"
+    },
+    {
+      "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/cropped/t4zoelee6pzhioyduntt/softovac-sf-bowel-regulator-for-effective-relief-from-constipation.png",
+      "style__name___3YOZc": "Softovac-SF Bowel Regulator for Effective Relief from Constipation",
+      "style__pack-size___3nfIS": "jar of 100 gm Powder",
+      "CardRatingDetail__weight-700___27w9q": 4.5,
+      "CardRatingDetail__ratings-header___2yyQW": "868 ratings",
+      "style__strike-price___3Ag3J": "₹205",
+      "style__discount-percent___1CBqr": "7% off",
+      "style__price___196ew": "₹189"
+    },
+    {
+      "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/duorsdo3qv5hifquktuw/baidyanath-nagpur-abhayarishta.jpg",
+      "style__name___3YOZc": "Baidyanath (Nagpur) Abhayarishta",
+      "style__pack-size___3nfIS": "bottle of 450 ml Liquid",
+      "CardRatingDetail__weight-700___27w9q": 4.4,
+      "CardRatingDetail__ratings-header___2yyQW": "65 ratings",
+      "style__strike-price___3Ag3J": "₹185",
+      "style__discount-percent___1CBqr": "20% off",
+      "style__price___196ew": "₹148"
+    },
+    {
+      "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/e1quecehqfwixqbgoffq/organic-india-turmeric-formula-veg-capsule.jpg",
+      "style__pack-size___3nfIS": "bottle of 60 vegicaps",
+      "CardRatingDetail__weight-700___27w9q": 4.5,
+      "CardRatingDetail__ratings-header___2yyQW": "279 ratings",
+      "style__strike-price___3Ag3J": "₹295",
+      "style__discount-percent___1CBqr": "4% off",
+      "style__price___196ew": "₹282"
+    },
+    {
+      "style__image___Ny-Sa src": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,c_fit,w_150/gej7hqda83rlpxvwoduo/baidyanath-shilajeet-tablet-for-vitality-stamina-tablet.jpg",
+      "style__name___3YOZc": "Baidyanath Shilajeet Tablet for Vitality & Stamina Tablet",
+      "style__pack-size___3nfIS": "bottle of 50 tablets",
+      "CardRatingDetail__weight-700___27w9q": 4,
+      "CardRatingDetail__ratings-header___2yyQW": "205 ratings",
+      "style__strike-price___3Ag3J": "₹265",
+      "style__discount-percent___1CBqr": "20% off",
+      "style__price___196ew": "₹212"
     }
   ]
 }
