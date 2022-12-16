@@ -2844,5 +2844,43 @@
          "style__font-12px___2ru_e": "Itraconazole (200mg)",
          "style__interaction___3cb12": "ADD"
        }
+      ],
+      "data": [
+        {
+          "style__heading___pc8n7": "Shop by health concerns",
+          "image": "https://www.1mg.com/categories/diabetes-1",
+          "style__image___Ny-Sa src": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c2a0598f-483c-48ff-9783-71e402aa28d3.png",
+          "name": "Diabetes Care"
+        },
+        {
+          "image": "https://www.1mg.com/categories/health-conditions/cardiac-care-35",
+          "style__image___Ny-Sa src 2": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ab1da5f4-c074-47d2-b278-a5fbd2c93f1f.png",
+          "name 2": "Cardiac Care"
+        },
+        {
+          "image": "https://www.1mg.com/categories/health-conditions/stomach-care-30",
+          "style__image___Ny-Sa src 3": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/702457a8-ff7d-43a6-bd1d-6bcb278ce686.png",
+          "name 3": "Stomach Care"
+        },
+        {
+          "image": "https://www.1mg.com/categories/health-conditions/liver-care-39",
+          "style__image___Ny-Sa src 4": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/995e64ba-5bd9-42bc-8db6-5dc0b821c89d.png",
+          "name 4": "Liver Care"
+        },
+        {
+          "image": "https://www.1mg.com/categories/health-conditions/bone-joint-muscle-care-34",
+          "style__image___Ny-Sa src 5": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ba975795-98dc-4cd8-8b55-3c20230d70e3.png",
+          "name 5": "Bone, Joint & Muscle Care"
+        },
+        {
+          "image": "https://www.1mg.com/categories/health-conditions/kidney-care-40",
+          "style__image___Ny-Sa src 6": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/e77d5099-d905-4462-ab9d-b51802e3739b.png",
+          "name 6": "Kidney Care"
+        },
+        {
+          "image": "https://www.1mg.com/categories/health-conditions/pain-relief-32",
+          "style__image___Ny-Sa src 7": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/fa7ff8e9-f1f8-4a3e-9125-c9b36bcf38cd.png",
+          "name 7": "Pain Relief"
+        }
       ]
 }
